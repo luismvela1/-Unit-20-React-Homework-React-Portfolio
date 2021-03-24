@@ -1,0 +1,77 @@
+
+
+.about{
+text-align: center;
+color: rgb(14, 114, 148);
+font-family: 'Ranchers', cursive;
+
+}
+
+.para{
+    float:right ;
+    font-family: 'Ranchers', cursive;
+}
+.avitar{
+    color: rgb(14, 114, 148);
+    text-align: center;
+    font-family: 'Ranchers', cursive;
+    margin-top: 10px;
+    text-align: left;
+    border-spacing: 15px;
+}
+.pic{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+p{
+    margin:30px;
+    border-spacing: 15px;
+    margin-top: 30px;
+    margin-right: 40px;
+}
+.link{
+    font-size: 40px;
+    color: blue;
+    font-family: 'Ranchers', cursive;
+    margin-left: 300px;
+}
+.containerp{
+    background-color: white;
+    margin-top: 10px;
+    text-align: center;
+    border-spacing: 15px;
+}
+.left{
+    margin: 20px;
+}
+
+.image{
+    float: left;
+    margin-right: 10px ;
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+.food{
+    float: left;
+    margin: 50px;
+    border: solid;
+}
+.work{
+    float: right;
+    margin-right: 100px;
+    border: solid;
+}
+
+.pass{
+    float: left;
+    margin: 50px;
+    border: solid;
+}
+.home{
+    float: right;
+    margin: 100px;
+    border: solid;
+}
+    
